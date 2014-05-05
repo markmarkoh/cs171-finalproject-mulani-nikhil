@@ -50,7 +50,7 @@ function BMdrawMap() {
             bubbleFill: '#000'
         },
         geographyConfig: {
-            dataUrl: '/Scripts/world.topo.hi-res.json',
+            dataUrl: '../Scripts/world.topo.hi-res.json',
             hideAntarctica: true,
             borderWidth: 0.5,
             borderColor: '#222',
